@@ -4,7 +4,7 @@
 
 ---
 
-**Live Link** - https://ajayvarma1602.github.io/PartifyUI/
+**Live Link** - https://ajayvarma1602.github.io/PartifyPartsFinder/
 
 ------
 
